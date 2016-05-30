@@ -1,29 +1,26 @@
 {
-  "name": "basket",
+  "name": "movie thing",
   "version": "1.0.0",
-  "description": "small basket web page",
+  "description": "small movie search application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siddv/basket.git"
+    "url": "git+https://github.com/siddv/movie-thing.git"
   },
   "author": "Siddharth Vadgama",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/siddv/basket/issues"
+    "url": "https://github.com/siddv/movie-thing/issues"
   },
-  "homepage": "https://github.com/siddv/basket#readme",
+  "homepage": "https://github.com/siddv/movie-thing#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-concat": "^2.6.0",
     "gulp-sass": "^2.3.1",
     "gulp-server-livereload": "^1.7.4"
-  },
-  "dependencies": {
-    "jquery": "^2.2.4"
   }
 }
