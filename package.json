@@ -17,10 +17,19 @@
   },
   "homepage": "https://github.com/siddv/movie-thing#readme",
   "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.0.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-concat": "^2.6.0",
     "gulp-sass": "^2.3.1",
-    "gulp-server-livereload": "^1.7.4"
+    "gulp-server-livereload": "^1.7.4",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
   }
 }
